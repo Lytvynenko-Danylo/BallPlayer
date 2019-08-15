@@ -1,7 +1,7 @@
 fileFormatVersion: 2
-guid: d7c6c640a02e3b344803df8c07494c1d
+guid: 029e793116a418246853b1b0327ca938
 ModelImporter:
-  serializedVersion: 26
+  serializedVersion: 25
   internalIDToNameTable: []
   externalObjects: {}
   materials:
@@ -38,7 +38,6 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -87,7 +86,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
